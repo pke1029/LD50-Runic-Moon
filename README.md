@@ -2,7 +2,7 @@
 
 Made in 72 hours for the Ludum Dare 50 game jam. 
 * Visit the game page here [Ludum Dare page](https://ldjam.com/events/ludum-dare/50/runic-moon)
-* Play the game here [Itch.io page](https://pke1029.itch.io/runic-moon)
+* Play the game here [Itchio page](https://pke1029.itch.io/runic-moon)
 * [TIC80 page](https://tic80.com/play?cart=2733)
 
 ![](media/video8.gif)
