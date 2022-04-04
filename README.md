@@ -8,6 +8,6 @@ An entry for the Ludum Dare 50 game jam.
 
 ## Credit
 
-* Programming and art by me [Twitter](https://twitter.com/pke1029)
+* Programming and pixel art by me [Twitter](https://twitter.com/pke1029)
 * Music and writing by @starling [Twitter](https://twitter.com/starlingoboe)
-* Title art by @Gs_presents [Twitter](https://twitter.com/Gs_presents)
+* Cover art by @Gs_presents [Twitter](https://twitter.com/Gs_presents)
